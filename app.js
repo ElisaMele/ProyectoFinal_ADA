@@ -82,16 +82,3 @@ const generateAllCharacters = async () => {
 };
 
 window.addEventListener('DOMContentLoaded', generateAllCharacters);
-
-
-/*
-                <div class="cards-character">
-                    <img src="images/banner-rick-morty.jpg" alt="..." />
-                    <div class="card-body">
-                        <h2 class="card-name"><b>Name: </b></h2>
-                        <p class="card-status"><b>Status: </b></p>
-                        <p class="card-specie"><b>Specie: </b></p>
-                        <p class="card-gender"><b>Gender: </b></p>
-                    </div>
-                </div>
-*/
